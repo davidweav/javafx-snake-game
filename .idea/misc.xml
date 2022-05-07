@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="630" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/cs1302/api/OpenLibrarySearchApi.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="628" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/cs1302/api/PropertiesExample.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1818" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/cs1302/game/Game.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="365" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/cs1302/game/IdleCat.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="713" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/cs1302/omega/OmegaApp.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/site/markdown/index.md.vm" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="759" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/cs1302/game/DemoGame.java" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
