@@ -7,22 +7,25 @@ Markdown is transformed into nice looking HTML.
 
 ## Part 1: App Description
 
-> Please provide a firendly description of your app, including the app
-> category that you chose, and the primary functions available to users
-> of the app.
-
-TODO WRITE / REPLACE
+> My app is my own implementation of the arcade game "Snake". 
+> The rules of the game are simple. You move the snake around with the 4 arrow keys,
+> and you try to grow your snake as big as possible by eating apples, which are the red
+> squares found in the board. The snake is green. If the snake touches itself or if it leaves
+> the boundaries, then the game is lost.
 
 ## Part 2: New
 
-> What is something new and/or exciting that you learned from working
-> on this project?
+> Something new I learned from this project was all the different methods that can be given to nodes.
+> In this project I learned how to color nodes, and how to give nodes effects. I learned a 
+> lot more on how to design good looking GUI. I also learned about games and how they
+> are made in java. I learned that every game must contain some sort of game loop.
+> I am sure I will use the code in Game.java in my other java projects in the future.
 
-TODO WRITE / REPLACE
 
 ## Part 3: Retrospect
 
-> If you could start the project over from scratch, what do
-> you think might do differently and why?
+> I think if I were to start this project over I would do more commits and make more use of Git. 
+> I did not do many commits, and my workflow for this project was very unorganized which caused a lot
+> of unnecessary time figuring how to accomplish a task.
 
-TODO WRITE / REPLACE
+
