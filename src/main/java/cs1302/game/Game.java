@@ -85,7 +85,7 @@ public abstract class Game extends Region {
      * Add the key code for the pressed key to the set of pressed keys.
      * @param event associated key event
      */
-    private void handleKeyPressed(KeyEvent event) {
+    protected void handleKeyPressed(KeyEvent event) {
         logger.info(event.toString());
         keysPressed.set(event.getCode().getCode());
     } // handleKeyPressed
@@ -94,7 +94,7 @@ public abstract class Game extends Region {
      * Remove the key code for the released key from the set of pressed keys.
      * @param event associated key event
      */
-    private void handleKeyReleased(KeyEvent event) {
+    protected void handleKeyReleased(KeyEvent event) {
         logger.info(event.toString());
         keysPressed.clear(event.getCode().getCode());
     } // handleKeyReleased
